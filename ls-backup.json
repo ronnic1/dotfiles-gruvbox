@@ -1,0 +1,159 @@
+{
+  "yags-general": {
+    "img": "https://media0.giphy.com/media/IBY3d3vyqpgc0/giphy.gif?cid=790b76115768e632c14f072ef8ba60bc1a21bece84a2b141&rid=giphy.gif&ct=g",
+    "title": "Hello, Nick.",
+    "displayImg": true,
+    "font": "JetBrains Mono Light",
+    "enableFonts": true
+  },
+  "yags-search": {
+    "placeholder": "Search the web",
+    "engine": "google",
+    "forwardingLookup": {
+      "/": "/",
+      "deepl": "https://deepl.com/",
+      "reddit": "https://reddit.com/",
+      "maps": "https://maps.google.com/"
+    }
+  },
+  "yags-theme": {
+    "inverted": false,
+    "color": {
+      "name": "custom",
+      "bg": {
+        "shade": "#302D2B",
+        "base": "#282828",
+        "surface": "#484341",
+        "highlight": "#544E4C"
+      },
+      "fg": {
+        "shade": "#8D7B63",
+        "base": "#A89984",
+        "surface": "#C1B6A7",
+        "highlight": "#DAD3CA"
+      },
+      "primary": {
+        "bg": "#458588",
+        "base": "#98971A",
+        "fg": "#DCDA2F"
+      },
+      "secondary": {
+        "bg": "#B8BB26",
+        "base": "#B8BB26",
+        "fg": "#E0E270"
+      },
+      "palette": {
+        "red": "#E06C75",
+        "green": "#98C379",
+        "yellow": "#E5C07B",
+        "blue": "#61AFEF",
+        "purple": "#C678DD",
+        "cyan": "#56B6C2",
+        "orange": "#FFBB7C"
+      }
+    },
+    "space": {
+      "smallest": "0.125rem",
+      "small": "0.5rem",
+      "medium": "1rem",
+      "large": "1.5rem",
+      "largest": "3rem"
+    }
+  },
+  "yags-surface": {
+    "shadow": {
+      "amount": 5,
+      "blur": 0,
+      "offset": 12,
+      "shadow": "12px 12px 0px rgb(69, 133, 136), 24px 24px 0px rgb(97.75, 146.5, 111.5), 36px 36px 0px rgb(126.5, 160, 87), 48px 48px 0px rgb(155.25, 173.5, 62.5), 60px 60px 0px rgb(184, 187, 38)"
+    },
+    "borderRadius": 0,
+    "maxWidth": 1000
+  },
+  "yags-bookmarks": [
+    {
+      "id": "oypo5p7WbiZm9myC",
+      "label": "personal",
+      "bookmarks": [
+        {
+          "id": "FFzpIKAmZbWH4LrF",
+          "label": "server",
+          "url": "http://192.168.1.222:88"
+        },
+        {
+          "id": "dU6dw0zdNlTaxJsg",
+          "label": "gmail",
+          "url": "https://www.gmail.com"
+        },
+        {
+          "id": "p2Xyym0GhCdwuVo2",
+          "label": "bofa",
+          "url": "https://www.bankofamerica.com"
+        }
+      ]
+    },
+    {
+      "id": "Rr6amvFGe7UdeuR5",
+      "label": "devops",
+      "bookmarks": [
+        {
+          "id": "AsgQzMIfG6wrTJSE",
+          "label": "acloudguru",
+          "url": "https://acloudguru.com"
+        },
+        {
+          "id": "X76xpGtyM6WeTyDO",
+          "label": "github",
+          "url": "https://github.com/"
+        },
+        {
+          "id": "t1STymZ1Q13UnkEP",
+          "label": "medium",
+          "url": "https://medium.com"
+        }
+      ]
+    },
+    {
+      "id": "gYqXG9yLGs1zgFp3",
+      "label": "shopping",
+      "bookmarks": [
+        {
+          "id": "BxKGMFWhQ6uhUyGk",
+          "label": "amazon",
+          "url": "https://www.amazon.com"
+        },
+        {
+          "id": "5XM2ECFd6QDLc2P3",
+          "label": "ebay",
+          "url": "https://www.ebay.com"
+        },
+        {
+          "id": "jxdWUNpXThT7PKjd",
+          "label": "etsy",
+          "url": "https://www.etsy.com"
+        }
+      ]
+    },
+    {
+      "id": "5klUgGkkluUbRBtD",
+      "label": "other",
+      "bookmarks": [
+        {
+          "id": "rULSl3pjL3ykD1dg",
+          "label": "youtube",
+          "url": "https://youtube.com"
+        },
+        {
+          "id": "1RcyvLMg8sjW1tUx",
+          "label": "youtube music",
+          "url": "https://music.youtube.com/"
+        },
+        {
+          "id": "hcF8MM2TkC6Tve7B",
+          "label": "reddit",
+          "url": "https://www.reddit.com"
+        }
+      ]
+    }
+  ]
+}
