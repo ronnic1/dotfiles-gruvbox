@@ -1,0 +1,31 @@
+## Copyright (C) 2020-2022 Aditya Shakya <adi1090x@gmail.com>
+## Everyone is permitted to copy and distribute copies of this file under GNU-GPL3
+
+## Colors configuration
+colors:
+  # Default colors
+  primary:
+    background: '#282828'
+    foreground: '#A89984'
+
+  # Normal colors
+  normal:
+    black:   '#1D2021'
+    red:     '#CC241D'
+    green:   '#98971A'
+    yellow:  '#D79921'
+    blue:    '#458588'
+    magenta: '#B16286'
+    cyan:    '#689D6A'
+    white:   '#A89984'
+
+  # Bright colors
+  bright:
+    black:   '#32302F'
+    red:     '#FB4934'
+    green:   '#B8BB26'
+    yellow:  '#FABD2F'
+    blue:    '#83A598'
+    magenta: '#D3869B'
+    cyan:    '#8EC07C'
+    white:   '#EBDBB2'
